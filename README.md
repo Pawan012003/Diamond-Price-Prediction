@@ -10,9 +10,6 @@ This project uses machine learning to predict diamond prices based on their phys
 - Notebook for EDA and insights.
 - Easily extendable for deployment.
 
-## 📁 Project Structure
-
-
 ## 🛠️ Installation
 
 ```bash
